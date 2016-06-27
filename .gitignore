@@ -1,0 +1,7 @@
+node_modules
+.svn
+.git
+.idea
+#.bowerrc
+#bower.json
+bower_components
